@@ -1,1 +1,1 @@
-#MyReadme file with changes
+#MyReadme file - here's some new content to create a conflict
